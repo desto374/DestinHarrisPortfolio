@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, R, Tableau, MS Excel
 
 ## Education			        		
-- B.S., Business Analytics | The University of San Francisco (_December 2024_)
+B.S., Business Analytics | The University of San Francisco (_December 2024_)
 
 ## Work Experience
 
