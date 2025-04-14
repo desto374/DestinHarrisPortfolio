@@ -24,21 +24,21 @@ inventory monitoring
 
 Developed and trained an LSTM model using A/B Testing on historical stock price data, effectively capturing trends and seasonality for accurate forecasting. Preprocessed data by normalizing it and creating sequences for training, achieving a 7-day forecasting prediction accuracy of 80%. Leveraged financial insights from balance sheets, income statements, and earnings reports using statistical analysis to enhance trading strategies and support data-driven investment decisions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Market Analysis](/assets/img/eeg_band_discovery.jpeg)
 
 ### Audio Classification Using ML Classification
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Analyzed Audio Frequencies using Advanced Python packages & functions to increase the accuracy of forecasted audio. Automated data export process by developing a Python function to convert CSV files into JSON format, improving efficiency and data accessibility. Cleansed and preprocessed 2,000 rows using librosa in Python to prepare audio data for analysis and gain insights on shape using a spectrogram, resulting in a 25% reduction in data processing time and increase in clarity.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Spectrogram](/assets/img/bike_study.jpeg)
 
 ### Palapas Student Analysis Using Tableau
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Created a dynamic automated dashboard using Tableau, resulting in 8 visualizations of market trends and identifying previously unnoticed customer markets. Analyzed 1000 rows of students using Python to identify four distinct grade levels and formulate two different tracking strategies. Created 5 KPIs to identify student progression and actionable insights including student tardiness & grades.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Palapas School](/assets/img/bike_study.jpeg)
 
 ## Interest
 
@@ -46,7 +46,7 @@ Entrepreneurship, LinkedIn Learning, Skating, Audio Engineering, Learning Langua
 
 ## Contact Information
 
-Address: San Francisco, California
-Phone: 773-294-1375
+Address: San Francisco, California 
+Phone: 773-294-1375 
 Email: Destinharris17@gmail.com 
 Linkedin Profile: linkedin.com/in/destinharris/ 
