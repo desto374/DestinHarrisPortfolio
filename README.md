@@ -46,4 +46,7 @@ Entrepreneurship, LinkedIn Learning, Skating, Audio Engineering, Learning Langua
 
 ## Contact Information
 
-San Francisco, California • 773-294-1375 • Destinharris17@gmail.com • linkedin.com/in/destinharris/ •
+Address: San Francisco, California
+Phone: 773-294-1375
+Email: Destinharris17@gmail.com 
+Linkedin Profile: linkedin.com/in/destinharris/ 
