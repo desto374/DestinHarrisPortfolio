@@ -40,12 +40,12 @@ Developed a dynamic, automated dashboard using Google Looker, featuring 8 detail
 
 [Palapas School Presentation](https://docs.google.com/presentation/d/1YZ1_IkfqzgOHQtMLlAd_humB4RueC14uqa_V7W2nGIE/edit?usp=sharing)
 
-### LAAirBNB Analysis Using Tableau
+### LA AirBNB Analysis Using Tableau
 [LA AIRBNB Analysis](https://lookerstudio.google.com/reporting/29a4ad75-cf67-4d34-9592-c0a2952e0312)
 
 Created a dynamic, automated dashboard using Tableau to analyze Los Angeles Airbnb market trends, resulting in 8 key visualizations that identified top-performing neighborhoods and previously overlooked high-revenue zones. Analyzed over 1,000 Airbnb listings using Python to cluster geographic regions and distinguish four distinct market segments, enabling the development of two unique revenue optimization strategies. Designed 5 KPIs to track performance, including average nightly rate, occupancy rate, total revenue, listing density, and revenue per listing, driving actionable insights for market positioning and investment opportunities.
 
-![Palapas School](Assets/TopRevenueOverviewDashboard.png)
+![Tableau Dahboard](Assets/TopRevenueOverviewDashboard.png)
 
 
 ## Interest
