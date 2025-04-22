@@ -38,7 +38,7 @@ Analyzed audio frequencies using advanced Python libraries such as Librosa to im
 
 Developed a dynamic, automated dashboard using Google Looker, featuring 8 detailed visualizations that uncovered key market trends and revealed previously unnoticed customer segments. Leveraged Python to analyze 1,000 rows of student data, successfully identifying four distinct grade levels and formulating two targeted tracking strategies to improve academic performance. Designed and implemented 5 custom KPIs to monitor student progression, providing actionable insights on patterns such as tardiness, grade distribution, and engagement levels.
 
-![Palapas School Presentation](https://docs.google.com/presentation/d/1YZ1_IkfqzgOHQtMLlAd_humB4RueC14uqa_V7W2nGIE/edit?usp=sharing)
+[Palapas School Presentation](https://docs.google.com/presentation/d/1YZ1_IkfqzgOHQtMLlAd_humB4RueC14uqa_V7W2nGIE/edit?usp=sharing)
 
 ### LAAirBNB Analysis Using Tableau
 [LA AIRBNB Analysis](https://lookerstudio.google.com/reporting/29a4ad75-cf67-4d34-9592-c0a2952e0312)
