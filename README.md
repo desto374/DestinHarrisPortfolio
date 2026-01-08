@@ -54,7 +54,7 @@ Created a dynamic, automated dashboard using Tableau to analyze Los Angeles Airb
 
 ![Tableau Dahboard](Assets/TopRevenueOverviewDashboard.png)
 
-### Image Resizer Website using HTML,CSS,JS, and Python
+### Image Resizer Website using HTML, CSS, JS, and Python
 [PixelArt Image Resizer](https://image-resizer-dusky.vercel.app/)
 
 Built PixelFit, a full-stack automation platform that generates 5+ platform-specific image formats from a single upload, reducing manual content prep time by an estimated 70%. Developed a FastAPI backend with Google OAuth authentication, session management, and dynamic ZIP delivery, and deployed the system to production on Render. Architected and debugged a same-origin deployment model to resolve cross-domain authentication issues, enabling reliable user profile creation and session persistence.
