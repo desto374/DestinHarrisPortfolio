@@ -1,22 +1,29 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Tableau, MS Excel
+## Technical Skills
+Languages: Python, JavaScript, SQL  
+Backend: FastAPI, REST APIs, OAuth 2.0, SQLite  
+Frontend: HTML, CSS, JavaScript  
+Infrastructure: Render, Git, Same-Origin Architecture  
+Data & Visualization: Tableau, Google Looker
 
-## Education			        		
-B.S., Business Analytics | The University of San Francisco (_December 2024_)
+## Education
+B.S. in Business Analytics  
+The University of San Francisco (December 2024)
 
 ## Work Experience
 
-**Project Administrator @ Beatty's Services, Inc. (_Febuary 2024 - Febuary 2025_)**
-- Utilized advanced Excel functions to analyze and evaluate budget data, enabling informed decision-making and financial planning.
-- Leveraged advanced research methods to identify and track contract data, resulting in a 15% boost in client engagement through strategic analysis.
-- Served as the primary liaison between senior management and clients, facilitating effective communication and ensuring alignment with business objectives.
-  
-**Executive Team Lead @ Target (_June 2023 - August 2023_)**
-- Managed and tracked product data, achieving a 3% reduction in INF (Items Not Found) through improving data accuracy &
-inventory monitoring
-- Conducted training sessions for over 100 team members, enhancing their skills & contributing to the overall team performance
-- Initiated a new sales strategy to improve customer retention rates that boosted monthly reward sales by 5%.
+### Project Administrator @ Beatty’s Services, Inc.
+(February 2024 – February 2025)
+- Built and maintained data-driven Excel workflows to analyze budgets and contract performance.
+- Researched and structured contract datasets, contributing to a 15% increase in client engagement.
+- Acted as a technical liaison between management and clients, translating requirements into actionable outputs.
+
+### Executive Team Lead @ Target
+(June 2023 – August 2023)
+- Optimized inventory tracking processes using structured data analysis, reducing INF (Items Not Found) by 3%.
+- Led training programs for 100+ employees, improving system adoption and operational efficiency.
+- Implemented customer-focused strategies that increased monthly rewards participation by 5%.
 
 ## Projects
 ### Stock Market Analysis Using LTSM
@@ -48,11 +55,11 @@ Created a dynamic, automated dashboard using Tableau to analyze Los Angeles Airb
 ![Tableau Dahboard](Assets/TopRevenueOverviewDashboard.png)
 
 ### Image Resizer Website using HTML,CSS,JS, and Python
-[PixelArt Image Resizer](https://image-resizer-dusky.vercel.app/))
+[PixelArt Image Resizer](https://image-resizer-dusky.vercel.app/)
 
 Built PixelFit, a full-stack automation platform that generates 5+ platform-specific image formats from a single upload, reducing manual content prep time by an estimated 70%. Developed a FastAPI backend with Google OAuth authentication, session management, and dynamic ZIP delivery, and deployed the system to production on Render. Architected and debugged a same-origin deployment model to resolve cross-domain authentication issues, enabling reliable user profile creation and session persistence.
 
-![Tableau Dahboard](Assets/pixelfit.png)
+![PixelFit](Assets/pixelfit.png)
 
 ## Interest
 
